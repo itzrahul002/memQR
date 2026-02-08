@@ -23,8 +23,8 @@ export function QRCodeModal({
     if (navigator.share) {
       try {
         await navigator.share({
-          title: "Aarav's 1st Birthday",
-          text: "You're invited to Aarav's 1st Birthday Bash!",
+          title: "Ramya's 1st Birthday",
+          text: "You're invited to Ramya's 1st Birthday Bash!",
           url: url
         });
       } catch (error) {

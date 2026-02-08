@@ -81,7 +81,7 @@ export function CoverPage({ onSelectView }: CoverPageProps) {
           <div className="absolute inset-0 bg-[var(--color-secondary)] rounded-full transform translate-x-4 translate-y-4" />
           <div className="relative w-full h-full rounded-full overflow-hidden border-8 border-white shadow-2xl bg-white">
             <img
-              src="./uploads/front.png"
+              src="/uploads/front.png"
               alt="Birthday Child"
               className="w-full h-full object-cover" />
 

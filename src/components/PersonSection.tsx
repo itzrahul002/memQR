@@ -21,13 +21,13 @@ const DATA = {
     title: 'Meet Ramya',
     subtitle: 'Our Little Prince',
     heroImage:
-    './uploads/intro1200-800.png',
+    '/uploads/intro1200-800.png',
     introText:
     "A year filled with giggles, first steps, and endless joy. Watch Aarav's journey from his first day to his first birthday!",
     gallery: [
-    './uploads/intro2-1200-800.png',
-    './uploads/intro1-1200-800.png',
-    './uploads/intro3-1200-800.png']
+    '/uploads/intro2-1200-800.png',
+    '/uploads/intro1-1200-800.png',
+    '/uploads/intro3-1200-800.png']
 
   },
   parents: {
@@ -53,7 +53,7 @@ const DATA = {
     title: 'Celebration',
     subtitle: 'Join the Fun!',
     heroImage:
-    './uploads/party1200-800.png',
+    '/uploads/party1200-800.png',
     functions: [
     {
       title: 'Cake Cutting',
@@ -62,7 +62,7 @@ const DATA = {
       time: '5:00 PM',
       venue: 'Spencer Plaza, Chennai',
       image:
-      './uploads/party2-1200-800.png',
+      '/uploads/party2-1200-800.png',
       mapLocation: 'Spencer Plaza',
       color: 'var(--color-primary)'
     },
@@ -73,7 +73,7 @@ const DATA = {
       time: '7:00 PM',
       venue: 'Spencer Plaza, Chennai',
       image:
-      './uploads/party3-1200-800.png',
+      '/uploads/party3-1200-800.png',
       mapLocation: 'Spencer Plaza',
       color: 'var(--color-accent)'
     }]
